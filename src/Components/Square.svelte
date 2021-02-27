@@ -22,7 +22,6 @@
     div {
         height: 4rem;
         width: 4rem;
-        background-color: hotpink;
     }
 
     .lite {

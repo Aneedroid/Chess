@@ -1,6 +1,5 @@
 <script>
 	import Board from './Board.svelte';
-	export let name;
 </script>
 
 <main>
@@ -11,7 +10,6 @@
 <style>
 	main {
 		text-align: center;
-		/* padding: 0 0.25rem; */
 		margin: 0 auto;
 	}
 
@@ -21,10 +19,4 @@
 		font-size: 4rem;
 		font-weight: 100;
 	}
-
-	/* @media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
-	} */
 </style>
